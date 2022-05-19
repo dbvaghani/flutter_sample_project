@@ -1,4 +1,4 @@
-# dio_api_call
+# Flutter Sample Project with Directory Structure
 
 A new Flutter project.
 
